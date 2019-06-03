@@ -1,0 +1,21 @@
+ArrayList Questions.
+1)Explain the different ways of constructing an ArrayList?  		     ->ArrayList1.java
+2)How do you increase the current capacity of an ArrayList? 		     ->Arralyist2.java
+3)How do you decrease the current capacity of an ArrayList to    	   ->ArrayList3.java
+the current size?
+4) How do you find the number of elements present in an ArrayList?	 ->ArrayList4.java
+5) How do you find out whether the given ArrayList is empty or not?  ->ArrayList5.java
+6) How do you check whether the given element is present in an 		   ->ArrayList6.java
+ArrayList or not?
+7)How do you get the position of a particular element in an 		     ->ArrayList7.java
+ArrayList?
+8) How do you convert an ArrayList to Array? 						             ->ArrayList8.java
+9) How do you retrieve an element from a particular position 		     ->ArrayList9.java
+of an ArrayList?
+10) How do you replace a particular element in an ArrayList with     ->ArrayList10.java 
+the given element?
+11)How do you append an element at the end of an ArrayList?			     ->ArrayList11.java
+12) How do you insert an element at a particular position of an 	   ->ArrayList11.java
+ArrayList
+18) How do you insert more than one element at a particular position ->ArrayList12.java
+of an ArrayList?
